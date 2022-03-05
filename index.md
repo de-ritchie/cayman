@@ -1,4 +1,4 @@
-<h3 align="center">Site under construction</h3>
+<h2 align="center">Site is under construction</h2>
 <p align="center">
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat"/>
+  <img src="https://octodex.github.com/images/constructocat2.jpg" alt="Octocat"/>
 </p>
